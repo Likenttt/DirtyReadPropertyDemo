@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/kent/Downloads/DirtyReadPropertyDemo/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoBackground.mc" id="1" lineNum="7" parent="globals/Background" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoBackground.mc" id="1" lineNum="8" parent="globals/Background" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoBackground.mc" id="1" lineNum="12" parent="globals/Background" pc="268435481" symbol="initialize"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoBackground.mc" id="2" lineNum="15" parent="globals/Background" pc="268435502" symbol="draw"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoBackground.mc" id="2" lineNum="17" parent="globals/Background" pc="268435506" symbol="draw"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoBackground.mc" id="2" lineNum="18" parent="globals/Background" pc="268435535" symbol="draw"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268436477" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268436477" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="5" lineNum="10" parent="globals/DirtyReadPropertyDemoView" pc="268435548" symbol="initialize"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="5" lineNum="11" parent="globals/DirtyReadPropertyDemoView" pc="268435552" symbol="initialize"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="5" lineNum="12" parent="globals/DirtyReadPropertyDemoView" pc="268435570" symbol="initialize"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="6" lineNum="14" parent="globals/DirtyReadPropertyDemoView" pc="268435583" symbol="getHourColor"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="6" lineNum="15" parent="globals/DirtyReadPropertyDemoView" pc="268435587" symbol="getHourColor"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="17" parent="globals/DirtyReadPropertyDemoView" pc="268435613" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="18" parent="globals/DirtyReadPropertyDemoView" pc="268435617" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="22" parent="globals/DirtyReadPropertyDemoView" pc="268435638" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="23" parent="globals/DirtyReadPropertyDemoView" pc="268435660" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="24" parent="globals/DirtyReadPropertyDemoView" pc="268435682" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="25" parent="globals/DirtyReadPropertyDemoView" pc="268435706" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="27" parent="globals/DirtyReadPropertyDemoView" pc="268435730" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="28" parent="globals/DirtyReadPropertyDemoView" pc="268435738" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="29" parent="globals/DirtyReadPropertyDemoView" pc="268435759" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="7" lineNum="30" parent="globals/DirtyReadPropertyDemoView" pc="268435782" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="8" lineNum="37" parent="globals/DirtyReadPropertyDemoView" pc="268435828" symbol="onLayout"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="8" lineNum="38" parent="globals/DirtyReadPropertyDemoView" pc="268435832" symbol="onLayout"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="9" lineNum="44" parent="globals/DirtyReadPropertyDemoView" pc="268435870" symbol="onShow"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="47" parent="globals/DirtyReadPropertyDemoView" pc="268435875" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="49" parent="globals/DirtyReadPropertyDemoView" pc="268435879" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="50" parent="globals/DirtyReadPropertyDemoView" pc="268435886" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="51" parent="globals/DirtyReadPropertyDemoView" pc="268435903" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="52" parent="globals/DirtyReadPropertyDemoView" pc="268435913" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="53" parent="globals/DirtyReadPropertyDemoView" pc="268435931" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="59" parent="globals/DirtyReadPropertyDemoView" pc="268435996" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="60" parent="globals/DirtyReadPropertyDemoView" pc="268436020" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="61" parent="globals/DirtyReadPropertyDemoView" pc="268436040" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="10" lineNum="64" parent="globals/DirtyReadPropertyDemoView" pc="268436054" symbol="onUpdate"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="11" lineNum="70" parent="globals/DirtyReadPropertyDemoView" pc="268436075" symbol="onHide"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="12" lineNum="73" parent="globals/DirtyReadPropertyDemoView" pc="268436080" symbol="onExitSleep"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="13" lineNum="76" parent="globals/DirtyReadPropertyDemoView" pc="268436085" symbol="onEnterSleep"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="14" lineNum="8" parent="globals/DirtyReadPropertyDemoView" pc="268436496" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoView.mc" id="14" lineNum="8" parent="globals/DirtyReadPropertyDemoView" pc="268436496" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="16" lineNum="7" parent="globals/DirtyReadPropertyDemoApp" pc="268436090" symbol="initialize"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="16" lineNum="8" parent="globals/DirtyReadPropertyDemoApp" pc="268436094" symbol="initialize"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="17" lineNum="12" parent="globals/DirtyReadPropertyDemoApp" pc="268436113" symbol="onStart"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="18" lineNum="15" parent="globals/DirtyReadPropertyDemoApp" pc="268436118" symbol="onStop"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="19" lineNum="18" parent="globals/DirtyReadPropertyDemoApp" pc="268436123" symbol="getInitialView"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="19" lineNum="19" parent="globals/DirtyReadPropertyDemoApp" pc="268436127" symbol="getInitialView"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="19" lineNum="20" parent="globals/DirtyReadPropertyDemoApp" pc="268436157" symbol="getInitialView"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="20" lineNum="24" parent="globals/DirtyReadPropertyDemoApp" pc="268436181" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="20" lineNum="25" parent="globals/DirtyReadPropertyDemoApp" pc="268436185" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="20" lineNum="26" parent="globals/DirtyReadPropertyDemoApp" pc="268436203" symbol="onSettingsChanged"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="21" lineNum="5" parent="globals/DirtyReadPropertyDemoApp" pc="268436545" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="21" lineNum="5" parent="globals/DirtyReadPropertyDemoApp" pc="268436545" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="22" lineNum="30" parent="globals" pc="268436220" symbol="getApp"/>
+<entry filename="/Users/kent/Downloads/DirtyReadPropertyDemo/source/DirtyReadPropertyDemoApp.mc" id="22" lineNum="31" parent="globals" pc="268436232" symbol="getApp"/>
+<entry filename="Rez" id="24" lineNum="2" parent="globals/Rez/Drawables" pc="268436539" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="25" lineNum="6" parent="globals/Rez/Fonts" pc="268436541" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="26" lineNum="8" parent="globals/Rez/JsonData" pc="268436543" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="27" lineNum="17" parent="globals/Rez/Layouts" pc="268436249" symbol="WatchFace"/>
+<entry filename="Rez" id="27" lineNum="19" parent="globals/Rez/Layouts" pc="268436261" symbol="WatchFace"/>
+<entry filename="Rez" id="27" lineNum="20" parent="globals/Rez/Layouts" pc="268436285" symbol="WatchFace"/>
+<entry filename="Rez" id="27" lineNum="22" parent="globals/Rez/Layouts" pc="268436448" symbol="WatchFace"/>
+<entry filename="Rez" id="28" lineNum="10" parent="globals/Rez/Layouts" pc="268436542" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="29" lineNum="27" parent="globals/Rez/Menus" pc="268436540" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="30" lineNum="29" parent="globals/Rez/Strings" pc="268436544" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="31" lineNum="1" parent="globals/Rez" pc="268436515" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="31" lineNum="1" parent="globals/Rez" pc="268436515" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="26" symbol="style1"/>
+<entry field="true" id="21" symbol="style0"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="28" symbol="styleTitle"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="24" symbol="ColorRed"/>
+<entry field="true" id="20" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="17" symbol="ColorBlue"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="10" object="true" symbol="DirtyReadPropertyDemoApp"/>
+<entry id="8390425" module="true" symbol="Properties"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="12" method="true" symbol="getHourColor"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry field="true" id="19" symbol="ColorDarkGray"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="27" symbol="ColorWhite"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="22" symbol="ColorBlack"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="18" symbol="BackgroundColorTitle"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="29" symbol="view"/>
+<entry field="true" id="16" symbol="ColorLightGray"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="11" symbol="hourColor"/>
+<entry field="true" id="25" symbol="ForegroundColorTitle"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="9" object="true" symbol="DirtyReadPropertyDemoView"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435500" name="dictionary" stackId="1" startPc="268435460"/>
+<entry arg="true" endPc="268435547" name="dc" stackId="1" startPc="268435502"/>
+<entry arg="true" endPc="268435612" name="style" stackId="1" startPc="268435583"/>
+<entry endPc="268435826" name="lastStyle" stackId="2" startPc="268435617"/>
+<entry endPc="268435826" name="style" stackId="1" startPc="268435617"/>
+<entry arg="true" endPc="268435869" name="dc" stackId="1" startPc="268435828"/>
+<entry endPc="268436073" name="view" stackId="6" startPc="268435879"/>
+<entry endPc="268436073" name="hours" stackId="4" startPc="268435879"/>
+<entry endPc="268436073" name="timeString" stackId="5" startPc="268435879"/>
+<entry endPc="268436073" name="clockTime" stackId="3" startPc="268435879"/>
+<entry endPc="268436073" name="timeFormat" stackId="2" startPc="268435879"/>
+<entry arg="true" endPc="268436074" name="dc" stackId="1" startPc="268435875"/>
+<entry arg="true" endPc="268436117" name="state" stackId="1" startPc="268436113"/>
+<entry arg="true" endPc="268436122" name="state" stackId="1" startPc="268436118"/>
+<entry endPc="268436474" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436261"/>
+<entry endPc="268436474" name="rez_cmp_local_custom_drawable_83360811314374204361" stackId="2" startPc="268436261"/>
+<entry arg="true" endPc="268436475" name="dc" stackId="1" startPc="268436249"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="style0"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="style1"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="styleTitle"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Background" offset="166" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry label="globals/DirtyReadPropertyDemoView" offset="221" parentId="globals" symbolId="DirtyReadPropertyDemoView" type="class"/>
+<dataEntry label="globals/Rez" offset="340" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="419" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="458" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="489" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="559" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="590" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/DirtyReadPropertyDemoApp" offset="725" parentId="globals" symbolId="DirtyReadPropertyDemoApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435501" name="initialize" parent="Background" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435547" name="draw" parent="Background" startPc="268435502">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436495" name="&lt;init&gt;" parent="Background" startPc="268436477">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435582" name="initialize" parent="DirtyReadPropertyDemoView" startPc="268435548">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435612" name="getHourColor" parent="DirtyReadPropertyDemoView" startPc="268435583">
+<param id="style"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435827" name="onSettingsChanged" parent="DirtyReadPropertyDemoView" startPc="268435613">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435869" name="onLayout" parent="DirtyReadPropertyDemoView" startPc="268435828">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435874" name="onShow" parent="DirtyReadPropertyDemoView" startPc="268435870">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436074" name="onUpdate" parent="DirtyReadPropertyDemoView" startPc="268435875">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436079" name="onHide" parent="DirtyReadPropertyDemoView" startPc="268436075">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436084" name="onExitSleep" parent="DirtyReadPropertyDemoView" startPc="268436080">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436089" name="onEnterSleep" parent="DirtyReadPropertyDemoView" startPc="268436085">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436514" name="&lt;init&gt;" parent="DirtyReadPropertyDemoView" startPc="268436496">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436112" name="initialize" parent="DirtyReadPropertyDemoApp" startPc="268436090">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436117" name="onStart" parent="DirtyReadPropertyDemoApp" startPc="268436113">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436122" name="onStop" parent="DirtyReadPropertyDemoApp" startPc="268436118">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436180" name="getInitialView" parent="DirtyReadPropertyDemoApp" startPc="268436123">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436219" name="onSettingsChanged" parent="DirtyReadPropertyDemoApp" startPc="268436181">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436563" name="&lt;init&gt;" parent="DirtyReadPropertyDemoApp" startPc="268436545">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436248" name="getApp" startPc="268436220">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436539" name="&lt;init&gt;" parent="Drawables" startPc="268436539">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436541" name="&lt;init&gt;" parent="Fonts" startPc="268436541">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436543" name="&lt;init&gt;" parent="JsonData" startPc="268436543">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436475" name="WatchFace" parent="Layouts" startPc="268436249">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436542" name="&lt;init&gt;" parent="Layouts" startPc="268436542">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436540" name="&lt;init&gt;" parent="Menus" startPc="268436540">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436544" name="&lt;init&gt;" parent="Strings" startPc="268436544">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436538" name="&lt;init&gt;" parent="Rez" startPc="268436515">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

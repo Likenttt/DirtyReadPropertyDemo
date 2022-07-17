@@ -1,0 +1,11 @@
+<settings>
+
+
+    <setting propertyKey="@Properties.style" title="@Strings.styleTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.style0</listEntry>
+            <listEntry value="1">@Strings.style1</listEntry>
+        </settingConfig>
+    </setting>
+
+</settings>
