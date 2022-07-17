@@ -1,6 +1,6 @@
 # A demo for a garmin bug suspect
 
-## How did we reproduce this bug suspect?
+## How do we reproduce this bug suspect?
 
 I have two property style and lastStyle.
 
